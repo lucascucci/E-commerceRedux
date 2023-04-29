@@ -1,0 +1,9 @@
+
+.barra{
+    justify-content: space-between;
+    align-items: center;
+    display:flow-root;
+    font-size: 25px;
+    color:rgb(199, 194, 194);
+    font-family: Arial, Helvetica, sans-serif, cursive;
+}
